@@ -27,7 +27,8 @@ The app allows users to adjust **speaking speed**, **volume**, and **save the sp
 
 ## App Preview
 
-> *(You can include a screenshot here later)*
+> 
+![Screenshot 2025-04-28 124838](https://github.com/user-attachments/assets/8cfd7e94-74a6-47ad-8d89-284f77e19b02)
 
 ---
 
