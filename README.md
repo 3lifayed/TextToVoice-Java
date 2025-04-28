@@ -1,4 +1,4 @@
-# Text to Voice App 🎤
+# Text to Voice App
 
 A simple and lightweight **Java desktop application** that converts typed text into speech using the FreeTTS engine.
 
